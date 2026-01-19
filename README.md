@@ -23,7 +23,7 @@ The system combines:
 
 ## 📂 Dataset
 
-⚠️ The dataset included in this repository is **not for public use**.  
+⚠️ The dataset used is **not for public use**.  
 It consists of **network flow features (normalized) with labeled traffic samples**, used for supervised and unsupervised intrusion detection tasks.  
 
 To replicate or extend this work, you can use publicly available datasets such as:  
